@@ -1,9 +1,10 @@
-9a0fed5aeb5a04d59d9888554644f3ce *DESCRIPTION
+3388fba36eb1c3697f59c461bc7d7637 *DESCRIPTION
 f834760baf6fd3ebfe7748cef4cbf622 *NAMESPACE
-10c4de647ae4c39e3897552c0e2befa9 *NEWS.md
+b2cd4d31ad2c3e443772c754ed9e1eaf *NEWS.md
 ba822d7e256b438bc3f19f6d7e200ad1 *R/trekfont.R
-471b2d71068459b9c9314b489b71e29c *README.md
+1194fb8ff3e4e30a51b2ba121a2c700a *README.md
 666b50d4ede24b5c064eaf5a706565f1 *data/trekfonts.rda
+3e9adfba385db5290ddfd88bf6f52516 *inst/WORDLIST
 24971b0696d17b5c13939ba72fc12640 *inst/fonts/AmarilloUSAF.ttf
 d7e88c8d2ea1549e1e4a5fbb6939ca75 *inst/fonts/Ba'ku.ttf
 187b9115d7961b4cb4a7c8ce2df1e3b7 *inst/fonts/BernyKlingon.ttf
@@ -111,5 +112,9 @@ b3dfe1f1587b70ec23f1a330a536e2a1 *inst/fonts/TrekkerTwoRegular.ttf
 64721dee7f3e347d846d9e59dda4e12d *inst/fonts/Vidiian.ttf
 213629318e3c6fe8c21bf9267f77dbfb *inst/fonts/VothSTVoyager.ttf
 7c014f76bbc53428f298d19ad8ea4520 *inst/fonts/ZiganTradOkudeska.ttf
+9a285b97981cebe41a9d9085550f845a *man/figures/logo.png
+4138ea8773857fb7339a06ac0001bc0b *man/figures/trekfont_ggplot.jpg
 dddb14aa82a1e2caa890be0e3d6cc7b1 *man/show_trekfonts.Rd
-734a836fcf83bd90353460572e939dd3 *man/trekfonts.Rd
+759765cec007e88c67cc63b418c205f4 *man/trekfonts.Rd
+94f7d2b4e5a082d07fc728809ec8e1ce *tests/testthat.R
+681a6271e868a7698babaf0a2cc25083 *tests/testthat/test-fonts.R
