@@ -1,10 +1,10 @@
-15e1eb35cfd0c055c5b6081e91c8a1f3 *DESCRIPTION
+88981d8730e627292ba672eda91f0be6 *DESCRIPTION
 f834760baf6fd3ebfe7748cef4cbf622 *NAMESPACE
-8266fd1b1b56c791d98ff48e3380a550 *NEWS.md
-ba822d7e256b438bc3f19f6d7e200ad1 *R/trekfont.R
-2211cd0b7ebb2d3e57abe7ca6987571c *README.md
+3cdec63abacaedeeaff671c85f785def *NEWS.md
+c74eccc4348ab3e8680ab4983f2a0d94 *R/trekfont.R
+6d4c4dc3fe63254bee8ba5735995d303 *README.md
 666b50d4ede24b5c064eaf5a706565f1 *data/trekfonts.rda
-3e9adfba385db5290ddfd88bf6f52516 *inst/WORDLIST
+e37202112bbca65641490698c4fcfe04 *inst/WORDLIST
 24971b0696d17b5c13939ba72fc12640 *inst/fonts/AmarilloUSAF.ttf
 d7e88c8d2ea1549e1e4a5fbb6939ca75 *inst/fonts/Ba'ku.ttf
 187b9115d7961b4cb4a7c8ce2df1e3b7 *inst/fonts/BernyKlingon.ttf
@@ -115,6 +115,7 @@ b3dfe1f1587b70ec23f1a330a536e2a1 *inst/fonts/TrekkerTwoRegular.ttf
 9a285b97981cebe41a9d9085550f845a *man/figures/logo.png
 4138ea8773857fb7339a06ac0001bc0b *man/figures/trekfont_ggplot.jpg
 dddb14aa82a1e2caa890be0e3d6cc7b1 *man/show_trekfonts.Rd
+8bcaacaed2c2b2e941411ab230043945 *man/trekfont.Rd
 759765cec007e88c67cc63b418c205f4 *man/trekfonts.Rd
 94f7d2b4e5a082d07fc728809ec8e1ce *tests/testthat.R
 681a6271e868a7698babaf0a2cc25083 *tests/testthat/test-fonts.R
